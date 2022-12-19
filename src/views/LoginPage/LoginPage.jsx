@@ -63,7 +63,7 @@ const LoginForm = () => {
         <br />
         <br />
         <Button variant="contained" type="submit">
-          Login
+          Log in
         </Button>
       </form>
     </LoginPage>

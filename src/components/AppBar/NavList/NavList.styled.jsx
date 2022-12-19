@@ -6,9 +6,9 @@ const HeaderList = styled.ul`
   list-style: none;
   & li a {
     text-decoration: none;
-    color: white;
+    color: #fcfcfc;
     &.active {
-      color: red;
+      color: #000000;
     }
   }
 `;
