@@ -1,0 +1,16 @@
+.AutNav {
+  display: flex;
+}
+
+.link {
+  display: 'inline-block';
+  text-decoration: 'none';
+  padding: 12;
+  font-weight: 700;
+  margin-right: 10px;
+  color: white;
+}
+
+.activelink {
+  color: #e84a5f;
+}

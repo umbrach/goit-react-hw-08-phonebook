@@ -1,27 +1,24 @@
-import s from './Filter.module.css';
-import { findUserAction } from '../../redux/slice';
 import { useDispatch } from 'react-redux';
-
+import { findUserAction } from 'redux/filter/slice';
+import TextField from '@mui/material/TextField';
 const Filter = () => {
   const dispatch = useDispatch();
-
-  const changeFilter = e => {
-    dispatch(findUserAction(e.currentTarget.value));
+  const handleChangeFilter = event => {
+    dispatch(findUserAction(event.target.value));
   };
-
   return (
-    <p>
-      <label className={s.label}>
-        Find contacts by name
-        <input
-          className={s.input}
-          type="text"
-          name="filter"
-          onChange={changeFilter}
-        ></input>
-      </label>
-    </p>
+    <>
+      <TextField
+        type="text"
+        label="Enter contact name"
+        onChange={handleChangeFilter}
+        size="small"
+        id="outlined-required"
+        helperText="Find contact by Name"
+      />
+    </>
   );
 };
 
 export default Filter;
+
