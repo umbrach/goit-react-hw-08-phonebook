@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.c710adc8.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.e989d613.js",
     "static/js/148.e1dd90b4.chunk.js": "/goit-react-hw-08-phonebook/static/js/148.e1dd90b4.chunk.js",
-    "static/js/116.9b1cb631.chunk.js": "/goit-react-hw-08-phonebook/static/js/116.9b1cb631.chunk.js",
+    "static/js/116.148f13fc.chunk.js": "/goit-react-hw-08-phonebook/static/js/116.148f13fc.chunk.js",
     "static/js/11.373857f8.chunk.js": "/goit-react-hw-08-phonebook/static/js/11.373857f8.chunk.js",
     "static/js/640.1ca1c41c.chunk.js": "/goit-react-hw-08-phonebook/static/js/640.1ca1c41c.chunk.js",
     "static/js/389.c4e60aaf.chunk.js": "/goit-react-hw-08-phonebook/static/js/389.c4e60aaf.chunk.js",
     "static/js/562.844b5be3.chunk.js": "/goit-react-hw-08-phonebook/static/js/562.844b5be3.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.7acaea2f.css.map": "/goit-react-hw-08-phonebook/static/css/main.7acaea2f.css.map",
-    "main.c710adc8.js.map": "/goit-react-hw-08-phonebook/static/js/main.c710adc8.js.map",
+    "main.e989d613.js.map": "/goit-react-hw-08-phonebook/static/js/main.e989d613.js.map",
     "148.e1dd90b4.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/148.e1dd90b4.chunk.js.map",
-    "116.9b1cb631.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/116.9b1cb631.chunk.js.map",
+    "116.148f13fc.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/116.148f13fc.chunk.js.map",
     "11.373857f8.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/11.373857f8.chunk.js.map",
     "640.1ca1c41c.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/640.1ca1c41c.chunk.js.map",
     "389.c4e60aaf.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/389.c4e60aaf.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c710adc8.js"
+    "static/js/main.e989d613.js"
   ]
 }
